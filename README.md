@@ -1,2 +1,2 @@
 # DBPulse
-Database Performance and Health App
+PostgreSQL Database Performance and Health App
