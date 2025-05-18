@@ -1,19 +1,19 @@
 # DBPulse
 PostgreSQL Database Performance and Health App
 
-DBPulse is a comprehensive desktop application developed to monitor the performance and overall health of PostgreSQL databases.
-With the application, you can easily view both database query statistics and system resource usage data.
+DBPulse is a comprehensive desktop application designed to monitor the performance and overall health of PostgreSQL databases. 
+It allows you to easily track query statistics, inspect database structures, and observe system resource usage — all in real time.
 
 🚀 Features
-·Query performance statistics using pg_stat_statements
+Query performance statistics using pg_stat_statements
 
-·Database contents: tables, views, indexes
+Database contents: tables, views, indexes
 
-·Disk usage, table sizes, and growth trends
+Disk usage, table sizes, and growth trends
 
-·Server status monitoring: CPU, memory, disk, active connections
+Server status monitoring: CPU, memory, disk, active connections
 
-·Real-time monitoring with a user-friendly desktop interface
+Real-time monitoring with a user-friendly desktop interface
 
 ⚙️ Requirements
 For the application to function correctly, the pg_stat_statements extension must be enabled in the PostgreSQL configuration.
